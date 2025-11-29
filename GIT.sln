@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncLogger", "AsyncLogger\AsyncLogger.csproj", "{C0543E03-3104-4DFE-9CE6-33FC71546FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CimXml2Json", "CimXml2Json\CimXml2Json.csproj", "{2BD7E55F-D339-479A-B9E3-FECF0263F880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cim2JsonTest", "Cim2JsonTest\Cim2JsonTest.csproj", "{EEE35BF0-8301-4884-BE1D-4E989A7619DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0543E03-3104-4DFE-9CE6-33FC71546FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0543E03-3104-4DFE-9CE6-33FC71546FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0543E03-3104-4DFE-9CE6-33FC71546FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0543E03-3104-4DFE-9CE6-33FC71546FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD7E55F-D339-479A-B9E3-FECF0263F880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD7E55F-D339-479A-B9E3-FECF0263F880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD7E55F-D339-479A-B9E3-FECF0263F880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD7E55F-D339-479A-B9E3-FECF0263F880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE35BF0-8301-4884-BE1D-4E989A7619DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE35BF0-8301-4884-BE1D-4E989A7619DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE35BF0-8301-4884-BE1D-4E989A7619DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE35BF0-8301-4884-BE1D-4E989A7619DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
